@@ -2,10 +2,11 @@
 
 Experimental platform game in JS from scratch
 
+[Play here](https://alicelieutier.github.io/platformer/)
+
 ## TODO
 
 - [ ] Implement more physics
-- [ ] Make github deploy on push
 
 ## Resource
 - [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial)
